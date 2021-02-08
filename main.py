@@ -8,7 +8,8 @@ import sys
 import time
 
 logging.basicConfig(level=logging.INFO, stream=sys.stdout)
-
+ #1
+ #1
 
 class BlockChain(object):
     def __init__(self):
